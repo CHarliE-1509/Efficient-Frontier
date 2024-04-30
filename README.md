@@ -38,15 +38,6 @@ where ER is the expected return of the portfolio, r_f is the risk-free rate, ER_
 The efficient frontier is constructed by optimizing the portfolio weights to find the optimal portfolio that minimizes risk for a given level of expected return,
 or maximizes expected return for a given level of risk. This is typically done using linear programming or quadratic programming techniques.
 
-**Example**
-
-Suppose we have two assets, A and B, with the following characteristics:
-
-| Asset | Expected Return | Standard Deviation |
-| --- | --- | --- |
-| A | 0.08 | 0.15 |
-| B | 0.12 | 0.20 |
-
 To construct the efficient frontier, we would calculate the expected return and risk of each asset, and then use the efficient frontier equation to find the optimal
 portfolio weights that minimize risk for a given level of expected return, or maximize expected return for a given level of risk.
 
